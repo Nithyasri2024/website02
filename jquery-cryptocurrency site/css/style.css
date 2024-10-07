@@ -1,0 +1,881 @@
+.container
+{
+    width:100%;
+    height:3000px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    margin:0px auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mainbox
+{
+    width: 100%;
+    height: 700px; 
+    background-image:url(../images/bacground.png);
+    background-repeat: repeat; 
+}
+
+.header
+{
+    width: 100%;
+    height: 80px;
+    /*background-color: rgb(172, 129, 213);*/
+}
+.cry
+{
+    font-size:40px ;
+    font-weight: bold;
+    color: white;
+    top:20px;
+    position: relative;
+    margin-left: 50px;
+    float: left;
+}
+nav ul
+{
+	float:left;
+	text-transform:capitalize;
+	margin-top:30px;
+    margin-left: 500px;
+}
+nav li
+{
+	list-style:none;
+	display:inline;
+	margin:20px 10px;
+	color:#D5D5D5;
+    font-size:20px ;
+    float: left;
+}
+nav
+{
+	float:left;
+}
+nav a
+{
+	color:#c3c0c0;
+	text-decoration:none;
+}
+nav a:hover
+{
+	color:#2e0ff7;
+}
+.sign
+{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    /*background-color: aqua;*/
+    border:3px solid aqua ;
+    top:40px;
+    position: relative;
+    margin-left: 1200px;
+    font-size:20px ;
+    text-align: center;
+    color: aliceblue;
+}
+.inverst
+{
+    font-size: 40px;
+    
+    color:rgb(42, 1, 248);
+    margin-left: 200px;
+    margin-top:120px ;
+}
+.inverst span
+{
+    color:aquamarine
+}
+.use
+{
+    font-size: 20px;
+    
+    color:rgb(140, 140, 142);
+    margin-left: 200px;
+    margin-top:30px ;
+}
+.button
+{
+    border-radius:10px ;
+    height: 30px;
+    width: 180px;
+    margin-left:200px ;
+    margin-top:30px ;
+}
+.but
+{
+    height: 30px;
+    width: 140px;
+    border-radius:10px ;
+    font-size:20px ;
+    background-color: aqua;
+    margin-left:200px ;
+    margin-top:30px ;
+    text-align: center;
+
+}
+.box img 
+{
+    width: 400px;
+    height: 400px;
+    margin-left: 900px;
+    top:-350px;
+    position: relative;
+   
+}
+
+.secondbox
+{
+    width: 100%;
+    height: 500px;
+    background-color: rgb(247, 247, 251);
+}
+.boxx img
+{
+    margin-left:200px ;
+    width: 200px;
+    height: 200px;
+    margin-top:50px ;
+}
+.what
+{
+    font-size:40px ;
+    color:#0b0344;
+    margin-top:40px;
+}
+.bit
+{
+    font-size:25px ;
+    color:#047b5d;
+    margin-top:20px;
+}
+.bbit
+{
+    font-size:20px ;
+    color:#a09e9e;
+    margin-top:20px;
+}
+.sut
+{
+    height: 40px;
+    width: 140px;
+    border-radius:10px ;
+    font-size:20px ;
+    border:5px solid rgb(12, 183, 245);
+    
+    margin-top:30px ;
+    text-align: center;
+
+}
+
+
+.thirdbox
+{
+    width: 100%;
+    height: 650px;
+    background-color: rgb(105, 220, 168);
+}
+.our
+{
+    font-size:40px ;
+    color: aliceblue;
+    top: 40px;
+    position: relative;
+    margin-left:600px ;
+}
+.second 
+{
+    font-size:20px ;
+    color: aliceblue;
+    top: 50px;
+    position: relative;
+    margin-left:450px ;
+}
+/*one*/
+ .dolo
+{
+   left:200px;
+   position:relative;
+   top:100px; 
+   width: 50px;
+   height: 80px;
+
+}
+.mob 
+{
+    font-size:30px ;
+    color: aliceblue;
+    left:120px;
+    position:relative;
+    top:100px ;
+ }
+ .exe
+ {
+    font-size:15px ;
+    color: aliceblue;
+    left:120px;
+    position:relative;
+    top:120px; 
+ }
+ .read
+ {
+    font-size:15px ;
+    text-decoration: underline;
+    color: aliceblue;
+    left:120px;
+    position:relative;
+    top:140px ;
+ }
+ /*two*/
+ .polo
+ {
+    left:100px;
+    position:relative;
+    top:100px; 
+    width: 50px;
+    height: 80px;
+ 
+ }
+ .mobb 
+ {
+     font-size:30px ;
+     color: aliceblue;
+     left:20px;
+     position:relative;
+     top:100px ;
+  }
+  .exee
+  {
+     font-size:15px ;
+     color: aliceblue;
+     left:20px;
+     position:relative;
+     top:120px; 
+  }
+  .rread
+  {
+     font-size:15px ;
+     text-decoration: underline;
+     color: aliceblue;
+     left:20px;
+     position:relative;
+     top:140px ;
+  }
+   /*Three*/
+  .solo
+ {
+    right:10px;
+    position:relative;
+    top:100px; 
+    width: 70px;
+    height: 90px;
+ 
+ }
+ .mobbb 
+ {
+     font-size:30px ;
+     color: aliceblue;
+     right:80px;
+     position:relative;
+     top:100px ;
+  }
+  .eexee
+  {
+     font-size:15px ;
+     color: aliceblue;
+     right:80px;
+     position:relative;
+     top:120px; 
+  }
+  .rreadd
+  {
+     font-size:15px ;
+     text-decoration: underline;
+     color: aliceblue;
+     right:80px;
+     position:relative;
+     top:140px ;
+  }
+   /*Four*/
+  .colo
+{
+   left:190px;
+   position:relative;
+   top:180px; 
+   width: 80px;
+   height: 90px;
+
+}
+.moob 
+{
+    font-size:30px ;
+    color: aliceblue;
+    left:120px;
+    position:relative;
+    top:170px ;
+ }
+ .exxe
+ {
+    font-size:15px ;
+    color: aliceblue;
+    left:120px;
+    position:relative;
+    top:180px; 
+ }
+ .reead
+ {
+    font-size:15px ;
+    text-decoration: underline;
+    color: aliceblue;
+    left:120px;
+    position:relative;
+    top:190px ;
+ }
+  /*five*/
+ .xolo
+ {
+    left:90px;
+    position:relative;
+    top:180px; 
+    width:90px;
+    height: 120px;
+ 
+ }
+ .moobb 
+ {
+     font-size:30px ;
+     color: aliceblue;
+     left:20px;
+     position:relative;
+     top:170px ;
+  }
+  .exxee
+  {
+     font-size:15px ;
+     color: aliceblue;
+     left:20px;
+     position:relative;
+     top:180px; 
+  }
+  .rreead
+  {
+     font-size:15px ;
+     text-decoration: underline;
+     color: aliceblue;
+     left:20px;
+     position:relative;
+     top:190px ;
+  }
+   /*six*/
+  .zolo
+ {
+    right:10px;
+    position:relative;
+    top:190px; 
+    width: 70px;
+    height: 90px;
+ 
+ }
+ .moobbb 
+ {
+     font-size:30px ;
+     color: aliceblue;
+     right:80px;
+     position:relative;
+     top:170px ;
+  }
+  .eexxee
+  {
+     font-size:15px ;
+     color: aliceblue;
+     right:80px;
+     position:relative;
+     top:180px; 
+  }
+  .rreeadd
+  {
+     font-size:15px ;
+     text-decoration: underline;
+     color: aliceblue;
+     right:80px;
+     position:relative;
+     top:190px ;
+  }
+
+  
+  .fourthbox
+{
+    width: 100%;
+    height: 550px;
+    background-color: rgb(221, 226, 223);
+}
+.with
+{
+    font-size:40px ;
+    color: aliceblue;
+    top: 40px;
+    position: relative;
+    margin-left:480px ;
+}
+.fun 
+{
+    font-size:15px ;
+    color: aliceblue;
+    top: 50px;
+    position: relative;
+    margin-left:400px ;
+}
+.onebox
+{
+    width: 300px;
+    height: 300px;
+    background-color: aliceblue;
+    margin-left:200px ;
+    top:120px;
+    position: relative;
+    
+}
+ img.onee
+ {
+    width: 80px;
+    height: 80px;
+    margin-left:100px;
+    margin-top: 20px;
+ }
+ .create
+ {
+    font-size:20px ;
+    margin-left:60px ;
+    color: rgb(59, 59, 238);
+    margin-top:40px;
+ }
+ .crre
+ {
+    font-size:13px ;
+    margin-left:40px ;
+    margin-top: 20px;
+    color: rgb(19, 19, 46);
+ }
+/*twwobox*/
+ .twobox
+{
+    width: 300px;
+    height: 300px;
+    background-color: aliceblue;
+    margin-left:550px ;
+    bottom:180px;
+    position: relative;
+}
+ img.oonee
+ {
+    width: 80px;
+    height: 80px;
+    margin-left:100px;
+    margin-top: 20px;
+ }
+ .ccreate
+ {
+    font-size:20px ;
+    margin-left:60px ;
+    color: rgb(59, 59, 238);
+    margin-top:40px;
+ }
+ .ccrre
+ {
+    font-size:13px ;
+    margin-left:40px ;
+    margin-top: 20px;
+    color: rgb(19, 19, 46);
+    
+ }
+
+ /*threebox*/
+ .threebox
+{
+    width: 300px;
+    height: 300px;
+    background-color: aliceblue;
+    margin-left:900px ;
+    bottom:480px;
+    position: relative;
+}
+ img.oonnee
+ {
+    width: 80px;
+    height: 80px;
+    margin-left:100px;
+    margin-top: 20px;
+ }
+ .ccrreate
+ {
+    font-size:20px ;
+    margin-left:60px ;
+    color: rgb(59, 59, 238);
+    margin-top:40px;
+ }
+ .ccrrre
+ {
+    font-size:13px ;
+    margin-left:40px ;
+    margin-top: 20px;
+    color: rgb(19, 19, 46);
+    
+ }
+
+
+
+ .fivebox
+ {
+    width: 100%;
+    height: 600px;
+    background-color: #e0dfdf;
+ }
+ .sweet
+ {
+    font-size:40px ;
+    font-weight: bold;
+    color: #0b0344;
+    margin-left:550px ;
+    top:40px;
+    position: relative;
+   
+ }
+ .lor
+ {
+    font-size:20px ;
+    
+    color: #666567;
+    margin-left:300px ;
+    top:40px;
+    position: relative;
+   
+ }
+ .b
+ {
+    width: 270px;
+    height: 420px;
+    background-color: #f8f7fa;
+    top:70px;
+    position: relative;
+    margin-left:10px ;
+ }
+ .abc 
+ {
+width: 200px;
+height: 200px;
+border-radius: 50%;
+margin-left:30px ;
+ }
+ .ki
+ {
+   font-size:30px ;
+   color: #0b0344;
+   margin-left:30px ;
+   bottom:5px;
+   position: relative;
+ }
+ .kki
+ {
+   font-size:15px ;
+   color: #484848;
+   margin-left:40px ;
+   bottom:5px;
+   position: relative;
+ }
+ .motoo
+ {
+   width: 270px;
+   height:140px ;
+   background-color: #f8f7fa;
+   
+   text-align: justify;
+   color: #626264;
+ }
+
+ .mottoo
+ {
+   width: 270px;
+   height:140px ;
+   background-color: #f8f7fa;
+   top:30px;
+   position: relative;
+   
+   text-align: center;
+   color: #626264;
+ }
+
+ .bb
+ {
+    width: 270px;
+    height: 420px;
+    background-color: #f8f7fa;
+    bottom:350px;
+    position: relative;
+    margin-left:310px ;
+ }
+
+
+ .bbb
+ {
+    width: 270px;
+    height: 420px;
+    background-color: #f8f7fa;
+    bottom:770px;
+    position: relative;
+    margin-left:610px ;
+ }
+
+ .bbbb
+ {
+    width: 270px;
+    height: 420px;
+    background-color: #f8f7fa;
+    bottom:1190px;
+    position: relative;
+    margin-left:915px ;
+ }
+ .bbbbb
+ {
+    width: 270px;
+    height: 420px;
+    background-color: #f8f7fa;
+    bottom:1610px;
+    position: relative;
+    margin-left:1210px ;
+ }
+
+
+
+ .sixthbox
+ {
+    width: 100%;
+    height: 150px;
+   
+      padding:10px;
+      
+      /* Safari and Google Chrome */
+      background: -webkit-linear-gradient(45deg, rgb(63, 50, 248), grey, rgb(39, 242, 107));
+      
+      /* W3C Standard */
+      background: linear-gradient(45deg,rgb(63, 50, 248), grey, rgb(39, 242, 107));
+      
+ }
+.g 
+{
+   font-size: 40px;
+   color: #f8f7fa;
+   margin-left:180px ;
+   top:20px;
+   position: relative;
+}
+.gg
+{
+   font-size: 15px;
+   color: #f8f7fa;
+   margin-left:180px ;
+   top:30px;
+   position: relative;
+}
+.ton
+{
+   width: 250px;
+   height: 50px;
+   border-radius:30px ;
+  /* background-color: #a2a1ac;*/
+   margin-left: 900px;
+   bottom:20px;
+   position: relative;
+}
+ .seventhbox
+ {
+    width: 100%;
+    height: 650px;
+    background-color: #faf6f6;
+ }
+ .u
+ {
+    font-size:40px ;
+    font-weight: bold;
+    color: #0b0344;
+    margin-left:550px ;
+    top:40px;
+    position: relative;
+   
+ }
+ .uu
+ {
+    font-size:15px ;
+    
+    color: #666567;
+    margin-left:430px ;
+    top:40px;
+    position: relative;
+   
+ }
+ .h
+
+ {
+   width: 350px;
+   height: 450px;
+   background-color:white ;
+   margin-left:120px ;
+   top:80px;
+   position: relative;
+ }
+ .y 
+ {
+   width: 350px;
+   height: 240px;
+   
+ }
+
+ .hh
+ {
+  
+   width: 350px;
+   height: 450px;
+   background-color:white ;
+   margin-left:520px ;
+   bottom:380px;
+   position: relative;
+ 
+ }
+
+ .hhh
+ 
+ {
+  
+   width: 350px;
+   height: 450px;
+   background-color:white ;
+   margin-left:920px ;
+   bottom:840px;
+   position: relative;
+ 
+ }
+ .j
+ {
+   font-size:20px ;
+   color: #047b5d;
+   margin-left: 20px;
+   top:30px;
+   position: relative;
+ }
+ .jj
+ {
+   font-size:20px ;
+   color: #2307f5;
+   margin-left: 20px;
+   top:50px;
+   position: relative;
+ }
+ .footer
+ {
+   width: 100%;
+   height: 550px;
+   background-color: #fefeff;
+ }
+ .cy
+ {
+   font-size:40px ;
+   font-weight: bold;
+   margin-left:250px ;
+   color:rgb(3, 3, 117) ;
+   top:40px;
+   position: relative;
+ }
+ .pp
+ {
+   font-size:15px ;
+   margin-left:250px ;
+   color:rgb(48, 48, 57) ;
+   top:60px;
+   position: relative;
+   text-align: justify;
+ }
+ .lp 
+ {
+   font-size:14px ;
+   margin-left:250px ;
+   color:rgb(148, 148, 150) ;
+   top:80px;
+   position: relative;
+   text-align: justify;
+ }
+ .clip
+ {
+   font-size:20px ;
+   margin-left:250px ;
+   color:rgb(6, 6, 244) ;
+   top:80px;
+   position: relative;
+ }
+ .cyy
+ {
+   font-size:20px ;
+   font-weight: bold;
+   color:rgb(3, 3, 117) ;
+   margin-left:50px ;
+   top:60px;
+   position: relative;
+ }
+ ul.like li{
+   font-size:20px ;
+   list-style: none;
+   top:80px;
+   position: relative;
+   color:rgb(48, 48, 57) ;
+   margin:10px 20px ;
+ }
+ .cyyy
+ {
+   font-size:20px ;
+   font-weight: bold;
+   color:rgb(3, 3, 117) ;
+   right:90px ;
+   top:60px;
+   position: relative;
+ }
+ ul.likke li{
+   font-size:20px ;
+   list-style: none;
+   top:90px;
+   position: relative;
+   color:rgb(48, 48, 57) ;
+   margin:10px 20px ;
+   right:140px ;
+   position: relative;
+ }
+ .hor{
+   width: 1100px;
+   height: 2px;
+   border:2px solid rgb(127, 124, 124) ;
+   top:220px;
+   position: relative;
+   margin-left:200px ;
+ }
+ .pop
+ {
+   top:250px;
+   position: relative;
+   margin-left:200px ;
+ }
+ ul.llikke li{
+   font-size:15px ;
+   list-style: none;
+   display: inline;
+   top:220px;
+   position: relative;
+   color:rgb(48, 48, 57) ;
+   margin:10px 10px ;
+   left:650px ;
+   position: relative;
+ }
+ 
+ 
+ 
+ 
+
+
+
+ 
